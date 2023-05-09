@@ -5,4 +5,4 @@
 2. С правой части дома должна быть терраса, вход на которую через кухню.
 
 # Примерный план:
-![image](https://optimumhouse.ru/mikea-3-2022-front-variant-1.html)
+![image](https://optimumhouse.ru/assets/files/2022/floors/mikea-3-2022-front-variant-1-floor-1.png)

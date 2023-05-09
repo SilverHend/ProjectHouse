@@ -9,6 +9,9 @@
 
 # Примерный вид дома:
 ![image](https://optimumhouse.ru/assets/cache_image/assets/files/2019/mi3/mikea3_august_0x0_eb0.jpg)
+![image](https://optimumhouse.ru/assets/cache_image/assets/files/2022/mikea3-2022/01_0x0_eb0.jpg)
+![image](https://optimumhouse.ru/assets/cache_image/assets/files/2019/mi3/i15_740x450_b9c.jpg)
+![image](https://optimumhouse.ru/assets/cache_image/assets/files/2019/mi3/i16_740x450_b9c.jpg)
 
 # Примерный план дома:
 ![image](https://optimumhouse.ru/assets/files/2022/floors/mikea-3-2022-front-variant-1-floor-1.png)

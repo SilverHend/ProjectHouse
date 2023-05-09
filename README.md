@@ -7,6 +7,9 @@
 4. Окна не должны быть до пола как в оригинале (**Микея-3/Микея-5**).
 5. Кухня-зал второй свет и декоративные балки в виде бруса.
 
+# Примерный вид дома:
+![image](https://optimumhouse.ru/assets/cache_image/assets/files/2019/mi3/mikea3_august_0x0_eb0.jpg)
+
 # Примерный план дома:
 ![image](https://optimumhouse.ru/assets/files/2022/floors/mikea-3-2022-front-variant-1-floor-1.png)
 

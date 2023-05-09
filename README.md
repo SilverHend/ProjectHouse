@@ -11,6 +11,6 @@
 Указанный план нужно отмаштабировать под рамер дома, дабы увеличить размер комнат.
 
 # Примерный план террасы:
-![image](https://ibb.co/FVvGCPP)
-![image](https://ibb.co/vshHS86)
-![image](https://ibb.co/b79JKJF)
+![image](https://i.ibb.co/9tXRSMM/photo-2023-05-09-18-07-26.jpg)
+![image](https://i.ibb.co/f892s7z/photo-2023-05-09-18-07-33.jpg)
+![image](https://i.ibb.co/fQwvxv9/photo-2023-05-09-18-07-18.jpg)

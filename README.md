@@ -6,3 +6,5 @@
 
 # Примерный план:
 ![image](https://optimumhouse.ru/assets/files/2022/floors/mikea-3-2022-front-variant-1-floor-1.png)
+
+Указанный план нужно отмаштабировать под рамер дома, дабы увеличить размер комнат.

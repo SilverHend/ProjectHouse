@@ -6,10 +6,12 @@
 3. Тип кровли фальцевая.
 4. Окна не должны быть до пола как в оригинале (**Микея-3/Микея-5**).
 5. Кухня-зал второй свет и декоративные балки в виде бруса.
+6. Если возможно предусмотреть люк на чердак для хранения вещей.
+
 
 # Примерный вид дома:
-![image](https://optimumhouse.ru/assets/cache_image/assets/files/2019/mi3/mikea3_august_0x0_eb0.jpg)
 ![image](https://optimumhouse.ru/assets/cache_image/assets/files/2022/mikea3-2022/01_0x0_eb0.jpg)
+![image](https://optimumhouse.ru/assets/cache_image/assets/files/2019/mi3/mikea3_august_0x0_eb0.jpg)
 ![image](https://optimumhouse.ru/assets/cache_image/assets/files/2019/mi3/i15_740x450_b9c.jpg)
 ![image](https://optimumhouse.ru/assets/cache_image/assets/files/2019/mi3/i16_740x450_b9c.jpg)
 
